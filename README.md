@@ -26,4 +26,4 @@ The focus of this project is to work on the following:
 | `black` | S1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town. |
 | `lstat` | lower status of the population (percent). |
 | `medv` | median value of owner-occupied homes in $1000s. |
-| --- | --- |
+
