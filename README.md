@@ -4,8 +4,11 @@ Machine Learning project utilizing Random Forest Regressor to train a model pred
 This project applies some of the practices found in Chapter 2 of "Hands-On Machine Learning with Scikit-Learn & TensorFlow" 
 by Auerelien Geron. 
 
-
--
+- Selecting a Performance Measure
+- Selection of a ML model
+- Cross-Validation
+- Grid-Search
+- Test-set evaluation
 
 # Description
 | Feature | Description |
